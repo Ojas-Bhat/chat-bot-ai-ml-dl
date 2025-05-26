@@ -1,2 +1,4 @@
 # chat-bot-ai-ml-dl
-blackbucks
+With the rapid advancement of artificial intelligence (AI) and natural language processing (NLP), conversational agents—commonly referred to as chatbots—have become a central component of modern human-computer interaction. These systems are increasingly integrated into customer service platforms, virtual assistants, healthcare applications, educational tools, and entertainment systems. The goal of such systems is to interpret human language input and respond in a way that is relevant, coherent, and contextually appropriate.
+
+Traditional chatbots relied heavily on rule-based systems or handcrafted scripts, which limited their ability to generalize beyond predefined inputs. However, modern approaches integrate machine learning and NLP techniques, allowing chatbots to handle a broader range of user queries with improved accuracy and adaptability. Despite the emergence of sophisticated transformer-based architectures like BERT and GPT, many applications require lightweight alternatives that can run efficiently on edge devices or environments with limited computational resources.
